@@ -1,7 +1,7 @@
 /* styles.css */
 
 
-.playwrite-nz-basic-<Iosveka> {
+.playwrite-nz-basic {
   font-family: "Playwrite NZ Basic", cursive;
   font-optical-sizing: auto;
   font-weight: <400>;
@@ -9,7 +9,7 @@
 }
 
 
-.bitcount-prop-double-ink-<Bitcount> {
+.bitcount-prop-double-ink {
   font-family: "Bitcount Prop Double Ink", system-ui;
   font-optical-sizing: auto;
   font-weight: <400>;
